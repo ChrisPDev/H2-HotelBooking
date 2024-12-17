@@ -1,0 +1,1 @@
+# This document is for all generel documentation in this project.
